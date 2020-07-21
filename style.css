@@ -1,0 +1,47 @@
+html {background-color: #f4f1DE; font-family: "roboto";}
+
+ul {list-style: none;}
+
+.navegador{ text-align: right; background-color:#f79276;}
+    
+
+
+form { background-color:#d4d5db;
+     margin-left: 1rem; margin-right: 1rem; 
+     padding: 1rem; padding-left: 27rem;}
+
+.mapa {display: flex;
+justify-content: center; padding-bottom: 2rem;}
+
+.bici { display: flex;  justify-content:
+     right;border-style: solid; background-color:#d4d5db; border-color: #3D405B;
+     margin-left: 2rem; margin-right: 2rem;}
+
+.texto1 {justify-items: normal; margin: 2rem auto; margin-left: 2rem; margin-right: 2rem}
+
+
+table{border-style: solid; border-color: #3D405B;}
+
+td {border-style: solid; border-color: #F2CC8F}
+
+h3 {background-color:#F2CC8F;}
+
+.logobike {padding-left: 2em; justify-content: center; padding-right: 3em;}
+
+.premios {margin-left: 2rem;}
+
+.parrafos { margin-left: 2rem;margin-right: 2rem; }
+
+h2 { margin-left: 1rem;}
+
+.fondomapa { background-color: #d4d5db;}
+
+ul.navega li {display: inline ; padding-left: 15px;
+      font-size:larger; padding-inline-end: 2em; }
+
+
+li { padding-bottom: 1rem;}
+
+a {text-decoration: none;}
+
+.corrientes { padding-left: 32.5rem;}
